@@ -16,6 +16,4 @@ None :)
 
 ## Contact
 
-If you would like to collaborate or learn more, connect with me on LinkedIn.
-
-> (https://www.linkedin.com/in/ainsleybrundage/)
+If you would like to collaborate or learn more, connect with me on [LinkedIn](https://www.linkedin.com/in/ainsleybrundage/).
