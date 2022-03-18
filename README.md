@@ -1,8 +1,4 @@
-# Hamburger Menu 🍔
-
-![GitHub repo size](https://img.shields.io/github/repo-size/AinsleyB29/UI-Pattern-Project)
-
-![GitHub contributors](https://img.shields.io/github/contributors/AinsleyB29/UI-Pattern-Project)
+# Hamburger Menu 🍔 ![GitHub repo size](https://img.shields.io/github/repo-size/AinsleyB29/UI-Pattern-Project) ![GitHub contributors](https://img.shields.io/github/contributors/AinsleyB29/UI-Pattern-Project)
 
 Hamburger Menu is a simple UI Pattern project that I built with HTML, CSS, & Javascript and data I retrieved from Bob's Burger's API.
 
